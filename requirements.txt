@@ -1,0 +1,1 @@
+langchain\nlanggraph\npsycopg2-binary\npython-dotenv\npydantic
